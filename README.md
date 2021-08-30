@@ -13,7 +13,6 @@ git clone https://github.com/burak48/kodluyoruzilkrepo.git
 ## Usage
 
 Projeyi clone'ladiktan sonra Visual Studio Code programinda aciniz
-Linux icin;
 
 ```sh
 cd kodluyoruzilkrepo
